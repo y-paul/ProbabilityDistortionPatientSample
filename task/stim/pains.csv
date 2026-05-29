@@ -1,0 +1,13 @@
+pain,level,combined_symptom,translation
+Kopfschmerzen,leichte,leichte Kopfschmerzen,mild headache
+Kopfschmerzen,mittlere,mittlere Kopfschmerzen,moderate headache
+Kopfschmerzen,starke,starke Kopfschmerzen,severe headache
+Bauchschmerzen,leichte,leichte Bauchschmerzen,mild stomache ache
+Bauchschmerzen,mittlere,mittlere Bauchschmerzen,moderate stomache ache
+Bauchschmerzen,starke,starke Bauchschmerzen,severe stomache ache
+Rückenschmerzen,leichte,leichte Rückenschmerzen,mild backpain
+Rückenschmerzen,mittlere,mittlere Rückenschmerzen,moderate backpain
+Rückenschmerzen,starke,starke Rückenschmerzen,severe backpain
+Schmerzen im Brustkorb,leichte,leichte Schmerzen im Brustkorb,mild chestpain
+Schmerzen im Brustkorb,mittlere,mittlere Schmerzen im Brustkorb,moderate chestpain
+Schmerzen im Brustkorb,starke,starke Schmerzen im Brustkorb,severe chestpain
